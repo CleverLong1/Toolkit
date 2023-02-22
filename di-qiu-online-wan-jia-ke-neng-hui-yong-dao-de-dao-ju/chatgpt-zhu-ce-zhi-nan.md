@@ -74,7 +74,7 @@ VPN 全称 Virtual Private Network，意为：虚拟私人网络。其一特性�
 
 * 分辨信息：哪些是真的？哪些可能在利用大家的盲区？
 * 不要制造、传播垃圾信息
-* Respect, Peace & Love. 尊重 和平 有爱\
+* Respect, Peace & Love\
 
 
 ### 2. 租用临时手机号👇
@@ -111,7 +111,7 @@ VPN 全称 Virtual Private Network，意为：虚拟私人网络。其一特性�
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>首先，需要邮箱作为账号。也可以选择谷歌、微软账号；不建议用国内的邮箱，有可能接收不到确认邮件</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>去邮箱的收件箱找到确认邮件，点一下</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>去邮箱的收件箱找到确认邮件，点一下</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>给自己取个名，然后下面点继续 Continue</p></figcaption></figure>
 
