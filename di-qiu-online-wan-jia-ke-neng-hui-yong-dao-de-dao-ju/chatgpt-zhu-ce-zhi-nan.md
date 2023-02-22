@@ -74,8 +74,7 @@ VPN 全称 Virtual Private Network，意为：虚拟私人网络。其一特性�
 
 * 分辨信息：哪些是真的？哪些可能在利用大家的盲区？
 * 不要制造、传播垃圾信息
-* Respect, Peace & Love\
-
+* Respect, Peace & Love. 尊重 和平 有爱
 
 ### 2. 租用临时手机号👇
 
