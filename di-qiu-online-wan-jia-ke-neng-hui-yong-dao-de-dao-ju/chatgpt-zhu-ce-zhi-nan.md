@@ -153,4 +153,4 @@ from 就算所有不经意，欢迎关注公众号`地表流浪`
 
 Very kindly sponsored by：
 
-`Fans & OpenAI`\
+`Fans & OpenAI`
