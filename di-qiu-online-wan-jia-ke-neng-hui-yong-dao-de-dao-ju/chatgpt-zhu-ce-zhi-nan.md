@@ -39,19 +39,21 @@ VPN 全称 Virtual Private Network，意为：虚拟私人网络。其一特性�
 
 市面上的 VPN 服务有免费的，更多的是收费的。
 
-免费的 VPN 比较出名和稳定的有老王VPN。
+免费的 VPN 比较出名和稳定的有老王VPN。（最近也不太稳了）
 
 <figure><img src="../.gitbook/assets/QQ图片20230222123718.png" alt=""><figcaption><p><a href="https://www.laowangvpn.org/">https://www.laowangvpn.org/</a></p></figcaption></figure>
 
 没有白吃的午餐，广告跑不了的。
 
-收费的 VPN 选择更多，你可以去搜搜「机场评测」、「VPS评测」，单靠我自己，其实很难了解哪些收费 VPN 服务最好。这些服务一般有包月、包季度、包年套餐。建议不要包年，虽然更便宜，但是万一跑路，你很难追回租金。
+收费的 VPN 选择更多，你可以去搜搜「机场评测」、「VPS评测」，单靠我自己，其实很难了解哪些收费 VPN 服务最好。
+
+这些服务一般有包月、包季度、包年套餐。建议不要包年，虽然更便宜，但是万一跑路，你很难追回租金。
 
 个人用过的比较稳的一个VPN服务商是：「跑路云」。
 
 <figure><img src="../.gitbook/assets/QQ图片20230222125840.png" alt=""><figcaption><p>别被「跑路」这两个字吓到，应该是一种调侃吧（但我不敢保证它永远不会跑路😂）</p></figcaption></figure>
 
-目前是邀请制度，必须填邀请码才能注册使用。可以直接用这个链接：[https://owo-qvq-uvu-owo.xn--mes358a082apda.com/auth/register? Code=fW6l](https://owo-qvq-uvu-owo.xn--mes358a082apda.com/auth/register?code=fW6l)
+目前是邀请制度，必须填邀请码才能注册使用。你可以填up主的码：fW6l。或直接用这个链接：[https://owo-qvq-uvu-owo.xn--mes358a082apda.com/auth/register? Code=fW6l](https://owo-qvq-uvu-owo.xn--mes358a082apda.com/auth/register?code=fW6l)
 
 注册-看套餐信息和价钱-充值购买就行。
 
@@ -64,7 +66,7 @@ VPN 全称 Virtual Private Network，意为：虚拟私人网络。其一特性�
 这里我把安卓和Windows系统 Clash 的下载链接发一下：
 
 安卓：[https://wwql.lanzout.com/i7r7k0oadtmj\
-](https://wwql.lanzout.com/i7r7k0oadtmj)Windows:[https://wwql.lanzout.com/iFuBd0oadbod](https://wwql.lanzout.com/iFuBd0oadbod)
+](https://wwql.lanzout.com/i7r7k0oadtmj)Windows：[https://wwql.lanzout.com/iFuBd0oadbod](https://wwql.lanzout.com/iFuBd0oadbod)
 
 使用上有什么问题可见跑路云的教程：[https://paoluz.link/user/tutorial](https://paoluz.link/user/tutorial)
 
@@ -114,9 +116,9 @@ VPN 全称 Virtual Private Network，意为：虚拟私人网络。其一特性�
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>给自己取个名，然后下面点继续 Continue</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>需要验证码了，到sms-activate.org购买号码吧，不要买孟加拉国 Bangladesh，踩过坑了</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>需要验证码了，返回sms-activate.org购买号码吧，不要买孟加拉国 Bangladesh，踩过坑了</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><br>不用管小括号，直接点号码右边，复制到注册页面，下方发送验证码。接收到验证码后，复制填上就行</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>不用管小括号，直接点号码右边，复制到注册页面，下方发送验证码。接收到验证码后，复制填上就行</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>快搞定啦，似乎除了第四个都可以选；继续下一步就行</p></figcaption></figure>
 
@@ -144,7 +146,11 @@ VPN 全称 Virtual Private Network，意为：虚拟私人网络。其一特性�
 
 或者付费升级 PLUS 版：
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>$20一个月</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>$20一个月，，貌似有点贵</p></figcaption></figure>
+
+如果后续还有啥问题的话，可以进咱官方粉丝群讨论讨论。
+
+传送门：公众号-菜单栏-联系我-粉丝组织
 
 
 
